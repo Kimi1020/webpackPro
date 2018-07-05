@@ -1,0 +1,14 @@
+{
+  "name": "torch",
+  "version": "1.0.0",
+  "description": "Project for learning webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaoKimi6",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.15.0"
+  }
+}
